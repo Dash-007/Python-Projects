@@ -1,0 +1,5 @@
+How to use:
+- Open terminal at file location.
+- Enter "python image_converter.py {source_folder} {output_folder}
+
+* If the output folder is not found, a new one will be created.
